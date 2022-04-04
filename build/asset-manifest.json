@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0598f6f6.css",
+    "main.js": "/static/js/main.2784db9e.js",
+    "static/media/Matias-Calvar's-Resume-EN.pdf": "/static/media/Matias-Calvar's-Resume-EN.7a5500c65e39b796b11b.pdf",
+    "static/media/layered-waves-haikei (1).svg": "/static/media/layered-waves-haikei (1).7e7c70a75dd4961a1f6a.svg",
+    "static/media/layered-waves-haikei (4).svg": "/static/media/layered-waves-haikei (4).6e2a3f8b4fb4017a40b9.svg",
+    "index.html": "/index.html",
+    "main.0598f6f6.css.map": "/static/css/main.0598f6f6.css.map",
+    "main.2784db9e.js.map": "/static/js/main.2784db9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0598f6f6.css",
+    "static/js/main.2784db9e.js"
+  ]
+}
