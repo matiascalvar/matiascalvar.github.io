@@ -1,0 +1,33 @@
+.card {
+  text-align: center;
+  background-color: rgba(27, 27, 27, 0.6);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 100%;
+  transition: all 0.5s;
+  /* overflow: hidden; */
+  border-bottom: 2px rgb(27, 27, 27) solid;
+}
+.card:hover {
+  /* border-bottom: 2px #085b69 solid; */
+  background-color: rgba(27, 27, 27, 0.8);
+}
+.tech {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.icon {
+  font-size: 3rem;
+  padding: 1rem;
+  transition: color 0.5s;
+}
+.tech p {
+  font-size: 1rem;
+}
+
+.icon:hover {
+  color: #085b69;
+}

@@ -1,0 +1,59 @@
+.contact {
+  padding: 3rem 0;
+  text-align: start;
+  display: flex;
+  align-items: center;
+  width: 70%;
+  justify-content: space-evenly;
+  vertical-align: middle;
+}
+
+.contact a {
+  color: white;
+  font-size: 1.3rem;
+  text-decoration: none;
+  align-self: center;
+  box-sizing: border-box;
+  height: 2rem;
+  transition: color 0.3s;
+}
+
+.icon {
+  vertical-align: middle;
+}
+
+.contact a:hover {
+  color: #085b69;
+}
+
+.iconResume {
+  background-color: rgba(27, 27, 27, 0.6);
+  padding: 0.5rem;
+  border-radius: 5px;
+  vertical-align: middle;
+}
+
+.iconResume:hover {
+  background-color: rgba(27, 27, 27, 0.8);
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+@media (max-width: 1300px) {
+  .iconText {
+    display: none;
+  }
+  .icon {
+    font-size: 2rem;
+  }
+  .contact {
+    align-self: center;
+  }
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+.contact {
+  padding: 2rem 0;
+}
+}

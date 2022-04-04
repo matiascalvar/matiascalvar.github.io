@@ -1,0 +1,21 @@
+.tech {
+  display: flex;
+  justify-content: space-evenly;
+}
+.icon {
+  font-size: 3rem;
+}
+.tech p {
+  font-size: 1rem;
+}
+.seeMore {
+  color: grey
+}
+.seeMore a{
+  text-decoration: none;
+  color: grey;
+  transition: all 0.5s;
+}
+.seeMore a:hover {
+  color: white
+}
