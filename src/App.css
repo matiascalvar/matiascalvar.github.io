@@ -4,7 +4,8 @@
 }
 
 body {
-  background: url("./images/layered-waves-haikei\ \(1\).svg");
+  /* background: url("./images/layered-waves-haikei\ \(1\).svg"); */
+  background: center/cover url("./images/space_mobile.jpg");
   /* overflow: hidden; */
   background-attachment: fixed;
 }
@@ -37,8 +38,9 @@ body {
 
 @media (max-width: 878px) {
   body {
-    background: url("./images/layered-waves-haikei\ \(4\).svg");
-    background-color: #0d4752;
+    /* background: url("./images/layered-waves-haikei\ \(4\).svg"); */
+    background: center/cover url("./images/space_mobile.jpg");
+    background-color: #222f35;
     background-attachment: fixed;
   }
 }
