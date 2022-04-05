@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.75adca97.css",
+    "main.css": "/static/css/main.8a9a41b8.css",
     "main.js": "/static/js/main.47921d02.js",
-    "static/media/nasa.jpg": "/static/media/nasa.55814f848f7d93172805.jpg",
     "static/media/space_mobile.jpg": "/static/media/space_mobile.e7493cc63ec4534d833f.jpg",
     "static/media/Matias-Calvar's-Resume-EN.pdf": "/static/media/Matias-Calvar's-Resume-EN.7a5500c65e39b796b11b.pdf",
-    "static/media/layered-waves-haikei (1).svg": "/static/media/layered-waves-haikei (1).7e7c70a75dd4961a1f6a.svg",
     "index.html": "/index.html",
-    "main.75adca97.css.map": "/static/css/main.75adca97.css.map",
+    "main.8a9a41b8.css.map": "/static/css/main.8a9a41b8.css.map",
     "main.47921d02.js.map": "/static/js/main.47921d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.75adca97.css",
+    "static/css/main.8a9a41b8.css",
     "static/js/main.47921d02.js"
   ]
 }
