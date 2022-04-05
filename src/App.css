@@ -38,6 +38,7 @@ body {
 @media (max-width: 878px) {
   body {
     background: url("./images/layered-waves-haikei\ \(4\).svg");
+    background-color: #0d4752;
     background-attachment: fixed;
   }
 }
