@@ -2,6 +2,11 @@
 
 html {
   scroll-behavior: smooth;
+  background: center/cover url("./images/tttwinkle.svg");
+  background-color: rgb(29, 29, 29);
+  background-attachment: fixed;
+
+
 }
 body {
   margin: 0;
