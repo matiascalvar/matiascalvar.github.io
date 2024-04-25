@@ -1,6 +1,6 @@
 import { FaLinkedin, FaGithubSquare } from "react-icons/fa";
 import style from "./Contact.module.css";
-import CV from "../../assets/Matias's Resume.pdf";
+import CV from "../../assets/resume.pdf";
 
 function Contact() {
   return (
