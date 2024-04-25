@@ -25,7 +25,7 @@ function Projects() {
       ],
       urls: [
         "https://github.com/matiascalvar/PI-Dogs-main",
-        "https://dogs-pi-spa.netlify.app/",
+        // "https://dogs-pi-spa.netlify.app/",
       ],
     },
     {
@@ -37,7 +37,7 @@ function Projects() {
       ],
       urls: [
         "https://github.com/matiascalvar/challenge",
-        "https://todos-nestjs.netlify.app/",
+        // "https://todos-nestjs.netlify.app/",
       ],
     },
     {

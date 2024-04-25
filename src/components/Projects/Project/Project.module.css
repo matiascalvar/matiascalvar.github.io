@@ -1,6 +1,6 @@
 .card {
   text-align: start;
-  background-color: rgba(27, 27, 27, 0.6);
+  background-color: rgba(27, 27, 27, 0.8);
   padding: 1rem;
   margin-bottom: 1rem;
   border-radius: 5px;
@@ -19,7 +19,7 @@
 
 .card:hover {
   border-bottom: 2px #085b69 solid;
-  background-color: rgba(27, 27, 27, 0.8);
+  background-color: rgba(27, 27, 27, 1);
 }
 
 .links {

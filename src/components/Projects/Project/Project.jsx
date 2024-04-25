@@ -11,9 +11,11 @@ function Project({ name, tech, description, urls }) {
         <a href={urls[0]} target="_blank" rel="noopener noreferrer">
           <FaGithubSquare />
         </a>
-        <a href={urls[1]} target="_blank" rel="noopener noreferrer">
-          <FaChrome />
-        </a>
+        {urls[1] && (
+          <a href={urls[1]} target="_blank" rel="noopener noreferrer">
+            <FaChrome />
+          </a>
+        )}
       </div>
     </div>
   );
