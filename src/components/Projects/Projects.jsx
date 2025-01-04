@@ -7,7 +7,7 @@ function Projects() {
      {
       name: "React Bytes",
       description:
-        "A blog page that features a header, navigation menu, and main content area, enabling users to list posts, view comments for a specific post, and perform CRUD operations on comments. The project incorporates data from the public API at jsonplaceholder.typicode.com.",
+        "A blog page that allows users to list posts, view comments for a specific post, and perform CRUD operations on comments. The project incorporates data from the public API at jsonplaceholder.typicode.com.",
       technologies: [
         "• Nextjs, React, TypeScript, Tailwind CSS, react-icons",
       ],
