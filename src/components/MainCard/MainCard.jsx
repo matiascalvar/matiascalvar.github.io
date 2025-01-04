@@ -8,11 +8,10 @@ function MainCard() {
         Hello, I'm <br /> Matias Calvar.
       </h1>
       <p className={style.paragraph}>
-        I'm a Full Stack Developer with academic education and experience on
-        both Front End and Back End development.
+        Software Developer.
         <br />
         <br />
-        Passionate about technology, languages and constant learning.
+        Passionate about technology, gaming, languages and constant learning.
       </p>
 
       <Contact />
