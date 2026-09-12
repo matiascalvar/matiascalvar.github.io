@@ -5,9 +5,9 @@ import CV from "../../assets/matias-calvar-cv.pdf";
 function Contact() {
   return (
     <div className={style.contact}>
-      <a href={CV} target="_blank" rel="noopener noreferrer">
+      {/* <a href={CV} target="_blank" rel="noopener noreferrer">
         <span className={style.iconResume}>Resume</span>
-      </a>
+      </a> */}
       <a
         href="https://www.linkedin.com/in/matiascalvar/"
         target="_blank"
