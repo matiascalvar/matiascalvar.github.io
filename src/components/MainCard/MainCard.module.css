@@ -27,6 +27,8 @@
   }
 }
 .menu {
+  /* Temporarily hidden while projects are being refreshed. */
+  display: none;
   text-align: start;
 }
 .menuLine {
