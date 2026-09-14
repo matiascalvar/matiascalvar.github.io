@@ -8,10 +8,11 @@ function MainCard() {
         Hello, I'm <br /> Matias Calvar.
       </h1>
       <p className={style.paragraph}>
-        Software Developer.
+        I build fast, reliable interfaces for complex, data-intensive products.
         <br />
         <br />
-        Passionate about technology, gaming, languages and constant learning.
+        Over the past 5+ years, I’ve specialised in React, TypeScript and Next.js,
+        with a focus on fintech, data visualisation and real-time applications.
       </p>
 
       <Contact />
